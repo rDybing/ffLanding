@@ -1,4 +1,4 @@
-baseURL = "https://relaxed-wozniak-a1b236.netlify.com"
+baseURL = "http://flexitefire.no"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
