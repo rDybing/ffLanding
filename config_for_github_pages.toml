@@ -1,4 +1,4 @@
-baseURL = "https://relaxed-wozniak-a1b236.netlify.com"
+baseURL = "https://runningstream.github.io/hugograyscale/"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
