@@ -7,7 +7,8 @@ defaultContentLanguage = "en"
 language = "en-US"
 paginate = 3
 
-theme = "piercer"
+theme = "hugo-piercer-theme"
+themesDir = "../.."
 
 [privacy]
     [privacy.googleAnalytics]
