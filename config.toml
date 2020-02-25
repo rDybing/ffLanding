@@ -1,4 +1,4 @@
-baseURL = "http://flexitefire.no"
+baseURL = "https://flexitefire.no"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
