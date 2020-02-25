@@ -1,11 +1,11 @@
 ---
-title: "Links"
+title: "Lenker"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## Bruk Webappen!
 
-You can download Grayscale for free from the Github page.
+Trykk under for å logge på webappen!
 
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+{{< big-button text="Logg Inn" href="https:app.flexitefire.no" >}}

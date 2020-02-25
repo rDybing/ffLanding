@@ -1,9 +1,9 @@
 ---
-title: "Hugo Grayscale Theme"
+title: "Flexite Fire AS"
 date: 2018-09-09T00:00:00-00:00
-copyright: "Your Website"
-description: "A port of the Grayscale theme to Hugo"
+copyright: "Flexite Fire 2020"
+description: "Software as a Service to help firedepartments and other first responders!"
 
 menu:
-    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+    - {url: "https://app.flexitefire.no", name: "Logg Inn"}
 ---

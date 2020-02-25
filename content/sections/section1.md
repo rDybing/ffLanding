@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "Om"
 weight: 2
 ---
 
-## About Grayscale
+## Om Flexite Fire
 
-Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootstrap. It can be yours right now, simply download the template from [the Github page](https://github.com/runningstream/hugograyscale/). The theme is open source, and you can use it for any purpose, personal or commercial.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-This theme was adapted from a Jekyll version, brought to you by [Jerome Lachaud](https://github.com/jeromelachaud)
+Vårt verktøy er tilgjengelig som [Web App](https://app.flexitefire.no)
 
-This theme features stock photos by [Gratisography](http://gratisography.com/) along with a custom Google Maps skin courtesy of [Snazzy Maps](http://snazzymaps.com/).
+Og som app på [iOS](https://www.apple.com/ios/app-store/) og [Android](https://play.google.com/store/apps/details?id=no.flexitefire.mobile&hl=en_US).

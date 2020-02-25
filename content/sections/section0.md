@@ -1,9 +1,9 @@
 ---
-title: "Header"
+title: "Forside"
 weight: 1
 improvecontrast: true
 ---
 
-# Grayscale
+# Flexite Fire
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
+Ett verktøy for å holde orden på mannskap og utstyr!

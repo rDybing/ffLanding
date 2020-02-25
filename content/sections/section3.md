@@ -1,13 +1,19 @@
 ---
-title: "Contact"
+title: "Kontakt"
 weight: 4
 ---
 
-## Contact Start Bootstrap
+## Kontakt
 
-Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
+Flexite Fire AS
+
+Krokatjønnveien 15
+
+5147 Fyllingsdalen
+
+Kontakt Fredrik Jessen på: 924 05 100
 
 {{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-    {{< github user="runningstream" >}}
+    {{< twitter user="DybingRoy" >}}
+    {{< github user="rDybing" >}}
 {{< /socialhandles >}}
