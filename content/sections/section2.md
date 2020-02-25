@@ -8,4 +8,4 @@ improvecontrast: true
 
 Trykk under for å logge på webappen!
 
-{{< big-button text="Logg Inn" href="https:app.flexitefire.no" >}}
+{{< big-button text="Logg Inn" href="https://app.flexitefire.no" >}}
