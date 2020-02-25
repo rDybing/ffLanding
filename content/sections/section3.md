@@ -5,15 +5,15 @@ weight: 4
 
 ## Kontakt
 
-Flexite Fire AS
-
-Krokatjønnveien 15
-
+Flexite Fire AS - 
+Krokatjønnveien 15 - 
 5147 Fyllingsdalen
 
-Kontakt Fredrik Jessen på: 924 05 100
+Support-telefon (0800-1600): 55165000
+
+Kontakt Fredrik Jessen på: 92405100
 
 {{< socialhandles >}}
     {{< twitter user="DybingRoy" >}}
-    {{< github user="rDybing" >}}
+	{{< facebook user="flexitefire">}}
 {{< /socialhandles >}}
