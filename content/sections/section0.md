@@ -6,4 +6,4 @@ improvecontrast: true
 
 # Flexite Fire
 
-Ett verktøy for å holde orden på mannskap og utstyr fort brannvesen og andre nød-etater!
+Ett verktøy for å holde orden på mannskap og utstyr for brannvesen og andre nød-etater!
